@@ -3,9 +3,7 @@
 
 # Simple React Hooks Snippets
 
-Simple set of snippets for React Hooks.
-
-[React hooks](https://reactjs.org/docs/hooks-reference.html) snippets extension for [Visual Studio Code](https://code.visualstudio.com/).
+Often, most snippet packages offer way more snippets than needed. The aim of this package is to provide a small set of snippets for React Hooks. Feel free to install with [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=bryceo.simple-react-hooks-snippets), or simply copy/paste into your own config.
 
 ## Snippets
 
